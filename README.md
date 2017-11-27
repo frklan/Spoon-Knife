@@ -13,5 +13,8 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 Back, back, back is a long way from home.
 
 
-[![GitHub tag](https://img.shields.io/github/tag/expressjs/express.svg)](https://github.com/frklan/Spoon-Knife/tags)
-[![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg)](https://github.com/frklan/Spoon-Knife/releases)
+[![GitHub tag](https://img.shields.io/github/tag/frklan/Spoon-Knife.svg)](https://github.com/frklan/Spoon-Knife/tags)
+[![GitHub release](https://img.shields.io/github/release/frklan/Spoon-Knife.svg)](https://github.com/frklan/Spoon-Knife/releases)
+
+
+[![release](http://github-release-version.herokuapp.com/github/frklan/Spoon-Knife/release.svg?style=flat)](https://github.com/frklan/Spoon-Knife/releases/latest)
