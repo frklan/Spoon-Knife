@@ -14,4 +14,4 @@ Back, back, back is a long way from home.
 
 
 [![GitHub tag](https://img.shields.io/github/tag/expressjs/express.svg)](https://github.com/frklan/Teleport2Lobby/releases)
-[![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg)](https://github.com/frklan/Teleport2Lobby/releases)
+[![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg)](https://github.com/frklan/Spoon-Knife/releases)
